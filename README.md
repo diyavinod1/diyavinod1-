@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Diya Vinod GitHub Banner" />
+</p>
 
 <h1 align="center">Hi there👋🏻, I'm Diya Vinod </h1>
 <p align="center">
