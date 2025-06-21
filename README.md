@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi, I'm Diya Vinod 👋</h1>
+<h1 align="center">Hi there, I'm Diya Vinod 👋</h1>
 <p align="center">
-  🌱 First-Year Engineering Student | 💻 Python & DSA Learner | 🚀 Exploring Open Source
+  🌱 First-Year Engineering Student | 💻 Python & DSA Learner | 🚀 Exploring Open Source | Learning everyday
 </p>
 
 ---
@@ -21,16 +21,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</p>
-
-
-### ⚒️ Platforms & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <a href="https://www.codechef.com/users/diyavinod">
+  <a href="https://www.codechef.com/users/kit28aiml018">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
@@ -50,7 +41,8 @@
 ### 🔗 Let's Connect
 
 - [LinkedIn](#) (www.linkedin.com/in/diyavinod1)
-- [CodeChef / LeetCode](#)
+- [CodeChef](#)
+()
 
 ---
 
