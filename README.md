@@ -4,18 +4,19 @@
 
 <h1 align="center">Hi there👋🏻, I'm Diya Vinod </h1>
 <p align="center">
-  🌱 First-Year Engineering Student | 💻 Python & DSA Learner | 🚀 Exploring Open Source | Learning everyday ✨
+  🌱 First-Year Engineering Student | 💻 Python & DSA Learner | 🚀 Exploring Open Source | Learning new things everyday ✨
 </p>
 
 ---
 
 ### 💫 About Me
 
-- 🎓 Currently studying engineering and diving into the tech world
-- 💻 Learning Python, DSA, Git & GitHub
+- 🎓 Currently studying engineering at KIT and diving into the tech world
+- 💻 Learning Python & DSA
 - ✨ Making fun mini projects like Rock Paper Scissors & Friendship Quiz
 - 🌱 Exploring open source and building my coding journey
 - 🛠️ Interested in AI, open source, and creative coding
+- 🖌️ Exploring drawing & video editing 
 
 ---
 
@@ -53,3 +54,8 @@
 
 > ✨ “Practice like you've never won.
       Perform like you've never lost."
+>  ⚡ “Hardwork is worthless for those who don't believe in themselves."
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFvd3ZsOHpsNmt1b2EzNnptN3BvZGU2cTd5MGdrM3I0ZWE3NjkxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12fID7XiiGZ3TG/giphy.gif" width="300" />
+</p>
