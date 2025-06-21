@@ -57,5 +57,5 @@
 >  ⚡ “Hardwork is worthless for those who don't believe in themselves."
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFvd3ZsOHpsNmt1b2EzNnptN3BvZGU2cTd5MGdrM3I0ZWE3NjkxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12fID7XiiGZ3TG/giphy.gif" width="300" />
+  <img src="https://c.tenor.com/QQzwD-ZtFQoAAAAC/naruto-believe-it.gif" alt="Naruto Believe It!" width="300"/>
 </p>
