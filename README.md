@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Diya Vinod GitHub Banner" />
+  <img src="a1fa3007-1af1-4e18-ac22-6858a52ccd9d.jpg" alt="Diya Vinod GitHub Banner" />
 </p>
 
 <h1 align="center">Hi there👋🏻, I'm Diya Vinod </h1>
