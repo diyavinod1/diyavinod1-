@@ -28,7 +28,10 @@
   <a href="https://www.codechef.com/users/kit28aiml018">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
+  ![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge)
+
 </p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -54,8 +57,10 @@
 
 > ✨ “Practice like you've never won.
       Perform like you've never lost."
->  ⚡ “Hardwork is worthless for those who don't believe in themselves."
+>
+> ⚡ “Hardwork is worthless for those who don't believe in themselves."
 
 <p align="center">
-  <img src="https://c.tenor.com/QQzwD-ZtFQoAAAAC/naruto-believe-it.gif" alt="Naruto Believe It!" width="300"/>
+  <img src="https://media.giphy.com/media/AsENeXc4Ier3E/giphy.gif" alt="Coding cat" width="200" />
 </p>
+
