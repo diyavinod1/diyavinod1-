@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi there, I'm Diya Vinod 👋</h1>
+<h1 align="center">Hi there👋🏻, I'm Diya Vinod </h1>
 <p align="center">
-  🌱 First-Year Engineering Student | 💻 Python & DSA Learner | 🚀 Exploring Open Source | Learning everyday
+  🌱 First-Year Engineering Student | 💻 Python & DSA Learner | 🚀 Exploring Open Source | Learning everyday ✨
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 - [LinkedIn](#) (www.linkedin.com/in/diyavinod1)
 - [CodeChef](#)
-()
+(https://www.codechef.com/users/kit28aiml018)
 
 ---
 
