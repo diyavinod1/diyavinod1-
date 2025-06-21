@@ -16,16 +16,15 @@
 
 ---
 
-### ⚒️ Languages & Tools
+### 🧰 Tools & Platforms I Use
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <a href="https://www.codechef.com/users/kit28aiml018">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ### 📊 GitHub Stats
@@ -37,14 +36,12 @@
 </p>
 
 ---
+### 🌐 Let’s Connect
 
-### 🔗 Let's Connect
-
-- [LinkedIn](#) (www.linkedin.com/in/diyavinod1)
-- [CodeChef](#)
-(https://www.codechef.com/users/kit28aiml018)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyavinod1)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit28aiml018)
 ---
+
 
 > ✨ “Practice like you've never won.
       Perform like you've never lost."
